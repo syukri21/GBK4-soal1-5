@@ -34,3 +34,5 @@ GB
    replace("matahari", "i", "j");
 
    hasil di console.log
+
+CATATAN : PEMOGRAMAN MENGGUNAKAN JAVASCRIPT ES-5 JADI DIHARAPKAN MENGGUNAKAN BROWSER TERBARU
