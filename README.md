@@ -12,6 +12,15 @@ Assalamualaikum wr wb
    contoh pemakaian fungsi :
    verify("Password Yang Akan Diverifikasi");
 
-   return value boolean
+   return value boolean (pada console.log)
    true = valid
    false = tidak valid
+
+3. Soal no 3 = soal.js
+
+   contoh pemakaian fungsi:
+   piramidaTerbalik(8) note: 8 adalah tinggi segitiga
+
+   hasil dapat di lihat pada index.html; (bukan console.log)
+
+4.
