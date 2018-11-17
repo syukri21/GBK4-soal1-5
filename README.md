@@ -29,8 +29,8 @@ GB
 
    hasil di console.log
 
-5) Soal no 5 = soal5.js
+5. Soal no 5 = soal5.js
    contoh pemakaian fungsi:
-   beetwenDays("2018-11-03", "2018-11-8");
+   replace("matahari", "i", "j");
 
    hasil di console.log
